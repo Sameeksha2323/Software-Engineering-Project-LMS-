@@ -1,5 +1,10 @@
 # Library Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+
+Submitted By | Submitted To
+-- | --
+Sameeksha | Mr. Vivek Narula
+2K22/MC/143
+S3 G3
 ## Functions
 ### Admin
 - Create Admin account and Login.
@@ -40,6 +45,4 @@ EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 
-## Drawbacks/LoopHoles
-- Anyone can be Admin.
 
